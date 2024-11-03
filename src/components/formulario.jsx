@@ -1,6 +1,6 @@
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-import '../Styles/Styles.css';
+import '../styles/styles.css';
 
 function Formulario() {
   return (

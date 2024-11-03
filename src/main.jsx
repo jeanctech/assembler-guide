@@ -1,8 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './Components/App'
-import Index from './Components/Index'
-import Formulario from './Components/Formulario'
+import App from './components/app'
+import Index from './components'
+import Formulario from './components/formulario'
 import './styles/styles.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
